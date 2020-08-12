@@ -1,0 +1,35 @@
+{
+  "name": "candee_ssr_h5",
+  "version": "1.0.0",
+  "description": "this is candee h5 ssr project",
+  "author": "Lian Yi Heng",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "port": "9520"
+    }
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "cookie-universal-nuxt": "^2.1.4",
+    "lodash": "^4.17.19",
+    "nuxt": "^2.12.2",
+    "nuxt-i18n": "^6.12.2",
+    "postcss-px2rem": "^0.3.0",
+    "vant": "^2.8.6",
+    "vue-social-sharing": "^2.4.7",
+    "vue-waterfall-plugin": "^1.0.7"
+  },
+  "devDependencies": {
+    "@nuxtjs/proxy": "^2.0.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2"
+  }
+}

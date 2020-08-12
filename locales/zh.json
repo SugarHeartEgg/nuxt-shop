@@ -1,0 +1,207 @@
+{
+    "candee": "Candee",
+    "money": "￥",
+    "money-tow": "￥",
+    "tabbar": {
+        "home": "首页",
+        "sort": "分类",
+        "vip": "会员",
+        "cart": "购物车",
+        "me": "我的"
+    },
+    "home": {
+        "header-title": "CANDEE 商城",
+        "serving-text": {
+            "brands": "品牌保证",
+            "flash": "物流快",
+            "return": "退货和更换"
+        },
+        "time": {
+            "title": "闪购",
+            "in": "结束于"
+        },
+        "shop-list": {
+            "sold": "已售出",
+            "sold-out": "已售罄",
+            "button-buy": "抢购",
+            "button-out": "已售罄"
+        },
+        "class-list": {
+            "class-name": "一级分类名称",
+            "class-flash": "闪购"
+        }
+    },
+    "mine": {
+        "login-tip": {
+            "phone-message": "请填写手机号",
+            "code-message": "请填写验证码",
+            "phone-number": "请填写正确的手机号",
+            "code-number": "请填写正确的验证码",
+            "send": "发送",
+            "login-button": "登录",
+            "bind-button": "确定",
+            "footer-text": "第三方帐号登录",
+            "bind-message": "请绑定您的手机号码"
+        }
+    },
+    "shop": {
+        "in": "结束于",
+        "flash-title": "特价促销",
+        "progress-text": "已售出",
+        "shop-tabbar": {
+            "chat": "客服",
+            "cart": "购物车",
+            "add-button": "添加购物车",
+            "buy-button": "立即购买",
+            "not-button": "未开始",
+            "out-button": "已售空",
+            "failure-button": "已失效",
+            "add-success": "添加成功"
+        },
+        "vip": {
+            "candee-vip": "Candee 会员",
+            "tip-message": "推荐朋友赚取佣金",
+            "tip-message-two": "开VIP赚取佣金",
+            "earns": "该产品赚"
+        },
+        "selected": {
+            "selected-text": "选择",
+            "available": "种规格"
+        },
+        "delivery": {
+            "delivery-text": "运输",
+            "address": "请输入收货地址",
+            "free": "订单5个或以上免费送货"
+        },
+        "method": {
+            "text": "支付方式",
+            "method-name": "ipay88提供支持"
+        },
+        "serve": {
+            "serve-text": "服务",
+            "brands": "品牌保证",
+            "flash": "物流快",
+            "return": "退货和更换"
+        },
+        "reviews": {
+            "reviews-text": "评分与评论",
+            "right-text": "查看全部",
+            "praise": "好评",
+            "with-raph": "有图"
+        },
+        "just-for-you": "猜你喜欢"
+    },
+    "cart-list": {
+        "title": "购物车",
+        "title-right-text": "编辑",
+        "title-right-text-cancel": "取消",
+        "null-cart": {
+            "text": "你的购物车是空的",
+            "shopping": "去购物"
+        },
+        "check-box": {
+            "all": "全选",
+            "shipping-fee": "不含运费",
+            "total": "共计",
+            "check-out": "结帐",
+            "del": "删除"
+        },
+        "shop-info": {
+            "flash": "闪购"
+        },
+        "del": "删除",
+        "disabled-null": "商品已过期"
+    },
+    "enter-order": {
+        "title": "确认订单",
+        "address": {
+            "not-exist": "请添加送货地址"
+        },
+        "payment-method": {
+            "title": "支付方式",
+            "wallet": "钱包划扣",
+            "fpx": "网上银行",
+            "cod": "货到付款"
+        },
+        "coupon": "优惠券",
+        "amount": "合计",
+        "shipping-fee": "运费",
+        "discount": "折扣",
+        "total": "共计",
+        "submit-order": "提交订单"
+    },
+    "success-error": {
+        "title": "付款成功",
+        "cod-title": "订单提交成功",
+        "order-amount": "订单金额",
+        "ship-text": "您的包裹已准备好发货",
+        "ship-text-failed": "请检查付款帐户或更改付款方式",
+        "view-order": "查看订单",
+        "to-ome": "回到首页",
+        "chanhe-payment": "更改付款",
+        "retry": "重试付款"
+    },
+    "navtop": {
+        "title": "Candee 商城",
+        "righttext": "打开"
+    },
+    "address": {
+        "address-list": {
+            "title": "选择地址",
+            "state-title": "省份",
+            "city-title": "市区",
+            "postCode-title": "邮编"
+        },
+        "add-success": "成功",
+        "list-title": "我的地址",
+        "list-default-icon": "默认",
+        "list-default-text": "默认地址",
+        "title": "新地址",
+        "receiver": "接收人",
+        "telephone": "电话",
+        "region": "地区",
+        "street-address": "街道地址",
+        "set-as-default": "设为默认",
+        "tips": {
+            "name": "请输入姓名",
+            "phone": "请输入电话号码",
+            "area": "请选择地区",
+            "set-address": "请输入街道地址"
+        },
+        "new-button": "添加新地址",
+        "save-button": "保存并使用"
+    },
+    "downloadapp": {
+        "text": "下载 candee 客户端"
+    },
+    "grouplist": {
+        "loading-text": "加载中",
+        "finished-text": "没有更多了"
+    },
+    "just-for-you": {
+        "flash": "闪购"
+    },
+    "sku": {
+        "stock": "库存",
+        "quantity": "数量",
+        "add-cart": "添加购物车",
+        "buy-now": "立即购买",
+        "failure-button": "已失效",
+        "sold-out": "已售空",
+        "not-started": "未开始",
+        "limit": {
+            "limited": "限量",
+            "pieces": "件"
+        },
+        "tip-spec": "请至少选择一种规格"
+    },
+    "select-address": {
+        "title": "选择收货地址",
+        "subtitle": "寄送地址",
+        "tipmessage": "您尚未添加地址",
+        "newbutton": "新增地址"
+    },
+    "services": {
+        "title": "在线客服"
+    }
+}

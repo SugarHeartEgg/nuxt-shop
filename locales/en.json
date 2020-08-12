@@ -1,0 +1,212 @@
+{
+    "candee": "Candee",
+    "money": "RM",
+    "money-tow": "MYR",
+    "tabbar": {
+        "home": "Home",
+        "sort": "sort",
+        "vip": "vip",
+        "cart": "cart",
+        "me": "me"
+    },
+    "home": {
+        "header-title": "CANDEE SHOPPING",
+        "serving-text": {
+            "brands": "Authentic Brand",
+            "flash": "Flash Ship",
+            "return": "Return & Replace"
+        },
+        "time": {
+            "title": "Flash Sale",
+            "in": "Ends in"
+        },
+        "shop-list": {
+            "sold": "sold",
+            "sold-out": "Sold Out",
+            "button-buy": "Rush Buy",
+            "button-out": "Sold Out"
+        },
+        "class-list": {
+            "class-name": "First class name",
+            "class-flash": "Flash Sale"
+        }
+    },
+    "mine": {
+        "login-tip": {
+            "phone-message": "Phone Number",
+            "code-message": "Verification Code",
+            "phone-number": "Please enter the correct phone number",
+            "code-number": "Please enter correct verify code",
+            "send": "SEND",
+            "login-button": "Login",
+            "bind-button": "Confirm",
+            "footer-text": "Third-party account login",
+            "bind-message": "Please bind your mobile number"
+        }
+    },
+    "shop": {
+        "in": "Ends in",
+        "flash-title": "FLASH SALE",
+        "progress-text": "sold",
+        "shop-tabbar": {
+            "chat": "Chat",
+            "cart": "Cart",
+            "add-button": "Add to Cart",
+            "buy-button": "Buy Now",
+            "not-button": "Not started",
+            "out-button": "Sold Out",
+            "failure-button": "Has the failure",
+            "add-success": "SUCCESS"
+        },
+        "vip": {
+            "candee-vip": "Candee VIP",
+            "tip-message": "Refer friends to earn commission",
+            "tip-message-two": "Open VIP to earn commission",
+            "earns": "This product earns"
+        },
+        "selected": {
+            "selected-text": "Selected",
+            "available": "specificationsavailable"
+        },
+        "delivery": {
+            "delivery-text": "Delivery",
+            "address": "Please enter the delivery address",
+            "free": "Free shipping on orders of 5 or more"
+        },
+        "method": {
+            "text": "Payment Method",
+            "method-name": "Supported by ipay88"
+        },
+        "serve": {
+            "serve-text": "Service",
+            "brands": "Authentic Brand",
+            "flash": "Flash Ship",
+            "return": "Return & Replace"
+        },
+        "reviews": {
+            "reviews-text": "Ratings&Reviews",
+            "right-text": "View All",
+            "praise": "Praise",
+            "with-raph": "With graph"
+        },
+        "just-for-you": "Just For You"
+    },
+    "cart-list": {
+        "title": "Shopping Cart",
+        "title-right-text": "Edit",
+        "title-right-text-cancel": "Cancel",
+        "null-cart": {
+            "text": "Your shopping cart is empty",
+            "shopping": "Go Shopping"
+        },
+        "check-box": {
+            "all": "All",
+            "shipping-fee": "Excluding Shipping Fee",
+            "total": "Total",
+            "check-out": "check out",
+            "del": "Delete"
+        },
+        "shop-info": {
+            "flash": "Flash sale"
+        },
+        "del": "delete",
+        "disabled-null": "Item Has Expired"
+    },
+    "enter-order": {
+        "title": "Confirm The Order",
+        "address": {
+            "not-exist": "Please add the shipping address"
+        },
+        "payment-method": {
+            "title": "Payment Method",
+            "wallet": "Wallet deduction",
+            "fpx": "Online Banking",
+            "cod": "Cash On Delivery"
+        },
+        "coupon": "Coupon",
+        "amount": "amount",
+        "shipping-fee": "shipping Fee",
+        "discount": "Discount",
+        "total": "Total",
+        "submit-order": "Submit Order"
+    },
+    "success-error": {
+        "title": "Payment success",
+        "cod-title": "Order Submitted Successful",
+        "order-amount": "Order Amount",
+        "ship-text": "Your package is ready to ship",
+        "ship-text-failed": "Please check the payment account or change payment method",
+        "view-order": "View Order",
+        "to-ome": "Back to Home",
+        "chanhe-payment": "Change Payment",
+        "retry": "Retry"
+    },
+    "navtop": {
+        "title": "Candee Shopping Mall",
+        "righttext": "Open"
+    },
+    "address": {
+        "address-list": {
+            "title": "Select Address",
+            "state-title": "State",
+            "city-title": "City",
+            "postCode-title": "PostCode"
+        },
+        "add-success": "SUCCESS",
+        "list-title": "My Address",
+        "list-default-icon": "Default",
+        "list-default-text": "The default address",
+        "title": "New Address",
+        "receiver": "Receiver",
+        "telephone": "Telephone",
+        "region": "Region",
+        "street-address": "Street Address",
+        "set-as-default": "Set as default",
+        "tips": {
+            "name": "Please enter name",
+            "phone": "Please enter telephone number",
+            "area": "Please select area",
+            "set-address": "Please enter street address"
+        },
+        "new-button": "New address",
+        "save-button": "Save and use"
+    },
+    "downloadapp": {
+        "text": "Download for Android"
+    },
+    "grouplist": {
+        "loading-text": "Loading",
+        "finished-text": "No more"
+    },
+    "just-for-you": {
+        "flash": "Flash Sale"
+    },
+    "sku": {
+        "stock": "Stock",
+        "quantity": "Quantity",
+        "add-cart": "Add to Cart",
+        "buy-now": "Buy Now",
+        "failure-button": "Has the failure",
+        "sold-out": "Sold Out",
+        "not-started": "Not started",
+        "limit": {
+            "limited": "Limited",
+            "pieces": "pieces"
+        },
+        "tip-spec": "Please select at least one specification"
+    },
+    "select-address": {
+        "title": "Select Delivery Address",
+        "subtitle": "Deliver Address",
+        "tipmessage": "You haven't added an address yet",
+        "newbutton": "New address"
+    },
+    "services": {
+        "title": "Online Customer Service"
+    },
+    "my-address": {
+        "content": "You have not set up a shipping address",
+        "set-up": "To set up",
+        "not-set": "Temporarily not set"
+    }
+}

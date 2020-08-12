@@ -1,0 +1,12 @@
+i {
+  /* 初始化i标签的斜体样式，不然会影响到iconfont引入的样式 */
+  font-style: normal;
+}
+
+img {
+  max-width: 100% !important;
+}
+
+* {
+  -webkit-overflow-scrolling: touch
+}
